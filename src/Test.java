@@ -8,6 +8,7 @@ public class Test {
 		// test rebase
 		System.out.println("Hello, World!");
 		// rebase test 2
+		// master add
 	}
 
 }
